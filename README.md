@@ -6,7 +6,7 @@
 
 This project involves an in-depth analysis of OLA's sales data to uncover trends, identify key growth factors, and enhance decision-making through actionable insights. The analysis was carried out using data cleaning in Excel, SQL queries, and a dynamic dashboard for visualization.
 
-Link : https\://app.powerbi.com/groups/me/reports/9566a950-7725-417b-bf1f-331477b012e0/8be0370ab2e847f0fd76?experience=power-bi
+Link : https://app.powerbi.com/view?r=eyJrIjoiYmU5MTgwNDAtNDAxZi00ZDdiLTkzNjQtMTgyODFmYWM2ZjI2IiwidCI6IjRhNzhmOWQwLWFiZGUtNDBjNC1hMDg4LTBiOTg5NTk5M2M0YSJ9
 
 ---
 
